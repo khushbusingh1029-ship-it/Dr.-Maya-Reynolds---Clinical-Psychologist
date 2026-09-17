@@ -8,7 +8,7 @@ export function Forth() {
       className="relative h-[480px] w-full sm:h-[520px] lg:h-[550px]"
     >
       <Image
-        src="/images/therapy-space.jfif"
+        src="/images/therapy-space2.jpg"
         alt="Calm and welcoming therapy space"
         fill
         sizes="100vw"

@@ -10,7 +10,7 @@ export default function First() {
         {/* Left Image */}
         <div className="relative h-[380px] sm:h-[480px] lg:h-auto">
           <Image
-            src="/images/therapy-space1.jfif"
+            src="/images/therapy-space1.jpg"
             alt="Calm therapy space in Santa Monica"
             fill
             sizes="(max-width: 1024px) 100vw, 40vw"
@@ -55,7 +55,7 @@ export default function First() {
         {/* Right Image */}
         <div className="relative h-[280px] sm:h-[360px] lg:h-auto">
           <Image
-            src="/images/therapy-space2.jfif"
+            src="/images/therapy-space2.jpg"
             alt="Therapy and mental wellness"
             fill
             sizes="(max-width: 1024px) 100vw, 20vw"

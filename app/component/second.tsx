@@ -40,7 +40,7 @@ export function Second() {
         {/* Image */}
         <div className="relative h-[450px] sm:h-[550px] lg:h-auto">
           <Image
-            src="/images/office.jfif"
+            src="/images/office.jpg"
             alt="Calm and private therapy office in Santa Monica"
             fill
             sizes="(max-width: 1024px) 100vw, 35vw"

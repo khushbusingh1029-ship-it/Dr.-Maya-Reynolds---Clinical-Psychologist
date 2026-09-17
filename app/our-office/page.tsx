@@ -35,7 +35,7 @@ export default function OurOffice() {
           {/* Image */}
           <div className="relative h-[450px] w-full sm:h-[550px]">
             <Image
-              src="/images/office2.jfif"
+              src="/images/office2.jpg"
               alt="Calm and private therapy office in Santa Monica"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"

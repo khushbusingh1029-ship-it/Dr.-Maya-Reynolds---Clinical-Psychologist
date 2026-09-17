@@ -9,7 +9,7 @@ export function Seventh() {
         {/* IMAGE */}
         <div className="relative h-[400px] sm:h-[500px] lg:h-[600px]">
           <Image
-            src="/images/therapy-environment.jfif"
+            src="/images/therapy-environment.jpg"
             alt="Peaceful and welcoming therapy environment"
             fill
             sizes="(max-width: 1024px) 100vw, 50vw"

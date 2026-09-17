@@ -27,7 +27,7 @@ export default function Third() {
         <div className="w-full">
           <div className="relative h-[250px] w-full overflow-hidden sm:h-[280px]">
             <Image
-              src="/images/anxiety.jfif"
+              src="/images/anxiety.jpg"
               alt="Calm space representing anxiety and emotional support"
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
@@ -53,7 +53,7 @@ export default function Third() {
         <div className="w-full">
           <div className="relative h-[250px] w-full overflow-hidden sm:h-[280px]">
             <Image
-              src="/images/trauma.jfif"
+              src="/images/trauma.jpg"
               alt="Peaceful therapy space representing trauma healing"
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
@@ -79,7 +79,7 @@ export default function Third() {
         <div className="w-full">
           <div className="relative h-[250px] w-full overflow-hidden sm:h-[280px]">
             <Image
-              src="/images/burnout.jfif"
+              src="/images/burnout.jpg"
               alt="Peaceful workspace representing professional burnout"
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
