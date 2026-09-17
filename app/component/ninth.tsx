@@ -53,7 +53,7 @@ export default function Ninth() {
         {/* RIGHT IMAGE */}
         <div className="relative h-[300px] sm:h-[400px] lg:h-auto">
           <Image
-            src="/images/therapy-environment-3.jpg"
+            src="/images/therapy-enviroment-3.jpg"
             alt="Welcoming therapy space"
             fill
             sizes="(max-width: 1024px) 100vw, 30vw"
