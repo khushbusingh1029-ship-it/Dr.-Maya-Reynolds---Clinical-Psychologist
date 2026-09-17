@@ -79,7 +79,7 @@ export function Sixth() {
         {/* IMAGE */}
         <div className="relative h-[400px] sm:h-[500px] lg:h-auto">
           <Image
-            src="/images/private-therapy-space.jfif"
+            src="/images/private-therapy-space.jpg"
             alt="Calm and private therapy space"
             fill
             sizes="(max-width: 1024px) 100vw, 30vw"
